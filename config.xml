@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.T-Rex Company.T-Rex Fun Run"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>T-Rex Fun Run</name>
+
+  <description>
+      T-Rex Fun Run Mobile App.
+  </description>
+
+  <author>
+      Adib Nawfal
+  </author>
+
+  <platform name="android">
+    <icon src="picture/icon/drawable-ldpi/icon.png" density="ldpi" />
+    <icon src="picture/icon/drawable-mdpi/icon.png" density="mdpi" />
+    <icon src="picture/icon/drawable-hdpi/icon.png" density="hdpi" />
+    <icon src="picture/icon/drawable-xhdpi/icon.png" density="xhdpi" />
+    <icon src="picture/icon/drawable-xxhdpi/icon.png" density="xxhdpi" />
+    <icon src="picture/icon/drawable-xxxhdpi/icon.png" density="xxxhdpi" />
+  </platform>
+
+</widget>
